@@ -58,7 +58,7 @@ dev_dependencies:
 flutter_icons:
   android: true
   ios: true
-  image_path: "assets/images/Logo_light.png"
+  image_path: "assets/icons/user.png"
 
 
 
